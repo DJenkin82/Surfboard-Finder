@@ -1,0 +1,61 @@
+id,shaper_id,model,waveTypes,abilities,recommendedWeightMin,recommendedWeightMax,length,volume,tail,fins,construction,img,sponsored
+1,1,Happy Everyday,"Beach, Point","Intermediate, Advanced",60,85,5'10,28.5,Squash,Thruster,PU,,False
+2,1,Two Happy,"Reef, Beach",Advanced,65,90,6'0,30.0,Squash,Thruster,PU,,False
+3,2,Ghost,Reef,Advanced,70,95,6'1,31.2,Round,Quad,Epoxy,,True
+4,2,Phantom,Beach,"Intermediate, Advanced",65,85,6'0,29.0,Squash,Thruster,PU,,False
+5,3,RNF96,Beach,Intermediate,60,80,5'9,27.5,Swallow,Thruster,PU,,True
+6,3,Driver 3.0,Point,Advanced,70,95,6'1,32.0,Squash,Thruster,PU,,False
+7,4,Monsta Box,Reef,"Intermediate, Advanced",65,90,6'2,31.0,Round,Quad,Epoxy,,False
+8,4,Blak Box,Beach,"Beginner, Intermediate",60,80,5'8,26.0,Squash,Thruster,Epoxy,,False
+9,5,Seaside,Beach,Intermediate,65,85,5'9,27.8,Round,Quad,Epoxy,,True
+10,5,Dominator 2.0,Point,"Intermediate, Advanced",60,85,6'0,29.5,Squash,Thruster,Helium,,False
+11,6,FRK,Reef,Advanced,70,95,6'0,30.5,Round,Thruster,PU,,False
+12,6,Sci-Fi 2.0,Point,Advanced,70,95,5'11,28.5,Squash,Thruster,LFT,,False
+13,7,Ducksnuts,Reef,Advanced,65,90,6'1,31.0,Round,Thruster,PU,,False
+14,7,Sweetspot,Beach,Intermediate,60,80,6'0,28.0,Squash,Thruster,Epoxy,,False
+15,8,Hypto Krypto,Beach,"Beginner, Intermediate",60,80,5'8,26.5,Round,Thruster,Epoxy,,True
+16,8,Cohort I,Point,Intermediate,65,85,5'10,27.0,Squash,Thruster,Epoxy,,False
+17,9,Disco Cheater,Beach,"Intermediate, Advanced",60,85,5'9,28.0,Squash,Thruster,PU,,False
+18,9,HT2,Point,Advanced,70,95,6'0,30.0,Round,Thruster,PU,,True
+19,10,The Link,Reef,"Beginner, Intermediate",55,75,5'8,25.0,Squash,Thruster,Epoxy,,False
+20,10,Tasty Treat,Beach,Beginner,50,70,5'6,24.0,Squash,Twin,PU,,False
+21,11,Rare Bird,Beach,Intermediate,60,85,6'0,29.0,Round,Thruster,Epoxy,,False
+22,11,Churro,Reef,"Intermediate, Advanced",70,95,6'2,32.0,Swallow,Thruster,PU,,False
+23,12,Dwart,Reef,Intermediate,65,90,6'1,30.0,Round,Quad,Epoxy,,True
+24,12,Smoothie,Beach,Beginner,55,75,5'8,25.5,Squash,Thruster,PU,,False
+25,13,The Stoker,Reef,Advanced,70,95,6'2,32.0,Round,Thruster,PU,,False
+26,13,The Synthetic,Point,Advanced,70,95,6'0,31.5,Round,Thruster,Epoxy,,False
+27,14,Nautilus,Reef,Advanced,70,95,5'11,29.5,Round,Thruster,PU,,False
+28,14,Flat Tracker,Beach,"Intermediate, Advanced",60,85,6'0,27.0,Round,Thruster,PU,,False
+29,15,Twinsman,Reef,Advanced,70,95,5'10,28.5,Twin,Twin,PU,,True
+30,15,Disorder,Beach,Advanced,70,95,5'11,29.0,Swallow,Thruster,PU,,False
+31,16,Pick Up Stick,Point,"Beginner, Intermediate",60,85,7'0,50.0,Round,2+1,Epoxy,,False
+32,16,Air’n,Reef,Intermediate,65,90,8'0,60.0,Round,Single,Epoxy,,True
+33,17,BigBoy 23,Beach,Beginner,80,100,6'8,45.0,Round,2+1,Epoxy,,False
+34,17,TET Fish,Point,"Beginner, Intermediate",75,95,6'4,38.0,Fish,Thruster,Epoxy,,False
+35,18,Retro PU,Beach,Beginner,60,80,6'0,35.0,Round,Thruster,PU,,False
+36,18,T-Low,Beach,Intermediate,60,80,5'9,32.0,Squash,Thruster,PU,,True
+37,19,Odysea Log,Beach,Beginner,55,75,8'0,70.0,Round,Single,Soft,,True
+38,19,Stump,Reef,"Beginner, Intermediate",55,75,5'6,42.0,Round,Thruster,Soft,,False
+39,20,Beastie,Beach,Beginner,60,80,7'0,60.0,Round,Thruster,Epoxy,,False
+40,20,Little Marley,Beach,"Beginner, Intermediate",60,80,6'6,48.0,Round,Thruster,Epoxy,,True
+41,1,CI Mid,Beach,Intermediate,60,85,6'2,30.0,Squash,Thruster,PU,,False
+42,2,Shadow,Reef,Advanced,70,95,6'3,31.5,Round,Quad,PU,,True
+43,3,Sub Driver,Beach,"Intermediate, Advanced",65,90,6'1,29.0,Swallow,Thruster,PU,,False
+44,4,Forget Me Not,Reef,Advanced,75,100,6'4,33.0,Squash,Thruster,PU,,False
+45,5,Greedy Beaver,Beach,Intermediate,60,85,6'0,28.0,Round,Quad,Epoxy,,True
+46,6,Gamma,Point,Advanced,65,88,6'1,29.0,Round,Thruster,Epoxy,,False
+47,7,DNA,Reef,Advanced,70,92,6'2,31.0,Squash,Thruster,PU,,False
+48,8,White Noiz,Beach,Intermediate,68,90,6'0,30.0,Round,Quad,PU,,True
+49,9,Disco Inferno,Point,Advanced,64,86,5'11,29.0,Squash,Thruster,Epoxy,,False
+50,10,La Loca,Beach,Intermediate,62,84,6'1,28.5,Round,Thruster,Epoxy,,False
+51,11,Fader,Reef,Advanced,66,88,6'0,30.5,Round,Thruster,PU,,False
+52,12,Piranha,Beach,Intermediate,70,94,6'2,31.0,Round,Quad,PU,,True
+53,13,Step Up,Reef,Advanced,72,98,6'3,32.0,Round,Thruster,Epoxy,,False
+54,14,Lane Splitter,Beach,Intermediate,65,89,6'1,30.5,Squash,Quad,Epoxy,,True
+55,15,Asym Twin,Reef,Advanced,67,91,6'0,28.0,Swallow,Twin,PU,,False
+56,16,Rocket Redux,Beach,Intermediate,63,87,5'11,27.5,Round,Thruster,PU,,False
+57,17,Pod Mod,Beach,Beginner,61,83,6'0,29.5,Squash,Thruster,PU,,True
+58,18,Holy Grail,Reef,Advanced,60,85,5'10,28.0,Round,Thruster,PU,,False
+59,19,Plasma,Beach,Intermediate,62,88,5'8,27.0,Round,Quad,Epoxy,,False
+60,20,Softlite Chop Stick,Beach,Beginner,64,86,6'0,28.5,Round,Thruster,Epoxy,,True
